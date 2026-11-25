@@ -1,0 +1,7 @@
+#arquivos DotEnv
+.env
+.env.*
+!.env.example
+
+#Arquivos compilados
+.class
